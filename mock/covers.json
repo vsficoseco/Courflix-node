@@ -1,6 +1,6 @@
 [
   {
-    "name": "Carousel-1",
+    "name": "Series",
     "items": [
       {
         "img": "https://courseit.com.ar/static/courflix/assets/preview-1.jpg"
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "name": "Carousel-2",
+    "name": "Continuar viendo contenido de Courflix",
     "items": [
       {
         "img": "https://courseit.com.ar/static/courflix/assets/preview-8.jpg"
@@ -52,7 +52,7 @@
     ]
   },
   {
-    "name": "Carousel-3",
+    "name": "Tendencias",
     "items": [
       {
         "img": "https://courseit.com.ar/static/courflix/assets/preview-15.jpg"
@@ -74,6 +74,32 @@
       },
       {
         "img": "https://courseit.com.ar/static/courflix/assets/preview-5.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Populares en Courflix",
+    "items": [
+      {
+        "img": "https://courseit.com.ar/static/courflix/assets/preview-1.jpg"
+      },
+      {
+        "img": "https://courseit.com.ar/static/courflix/assets/preview-2.jpg"
+      },
+      {
+        "img": "https://courseit.com.ar/static/courflix/assets/preview-3.jpg"
+      },
+      {
+        "img": "https://courseit.com.ar/static/courflix/assets/preview-4.jpg"
+      },
+      {
+        "img": "https://courseit.com.ar/static/courflix/assets/preview-5.jpg"
+      },
+      {
+        "img": "https://courseit.com.ar/static/courflix/assets/preview-6.jpg"
+      },
+      {
+        "img": "https://courseit.com.ar/static/courflix/assets/preview-7.jpg"
       }
     ]
   }

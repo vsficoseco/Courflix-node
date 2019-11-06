@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Temporada 1",
+    "items": [
+      {
+        "title": "Principio del fin",
+        "duration": "58 min",
+        "description": "Un profesor de química de escuela secundaria recurre a la venta de drogas para mantener a su familia.",
+        "img": "https://m.media-amazon.com/images/M/MV5BNTZlMGY1OWItZWJiMy00MTZlLThhMGItNDQ2ODM3YzNkOWU5XkEyXkFqcGdeQXVyNzgyOTQ4MDc@._V1_.jpg"
+      },
+      {
+        "title": "El gato en la bolsa",
+        "duration": "48 min",
+        "description": "Luego del fracaso de su primer negocio de drogras, Walt y Jesse deben deshacerse de dos cadáveres. Skyler sospecha que su marido no está involucrado en nada bueno.",
+        "img": "https://vignette.wikia.nocookie.net/breakingbad/images/4/4d/BB_102_S.jpg/revision/latest?cb=20170418193851"
+      },
+      {
+        "title": "Y la bolsa en el río",
+        "duration": "48 min",
+        "description": "Mientras Walter limpia el desorden que quedó tras su primer negocio de drogas, piensa en decirle a Skyler la verdad sobre su enfermedad.",
+        "img": "https://medias.spotern.com/spots/w640/110/110957-1532336916.jpg"
+      },
+      {
+        "title": "Cáncer",
+        "duration": "48 min",
+        "description": "Al ser forzado a contar la verdad acerca de su enfermedad, Walter enfrenta el problema de como pagar una serie de caros tratamientos contra el cáncer.",
+        "img": "https://i.ytimg.com/vi/NsMNNHw2K-I/maxresdefault.jpg"
+      },
+      {
+        "title": "Materia gris",
+        "duration": "48 min",
+        "description": "Skyler organiza una intervención para convencer a Walt de que acepte la generosa oferta de su excompañero de investigaciones de pagar el tratamiento contra el cáncer.",
+        "img": "https://i.ytimg.com/vi/a1T_eH3zD5M/maxresdefault.jpg"
+      }
+    ]
+  }
+]
